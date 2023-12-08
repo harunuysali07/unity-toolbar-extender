@@ -1,5 +1,5 @@
 {
-  "name": "com.marijnzwemmer.unity-toolbar-extender",
+  "name": "com.level4.unity-toolbar-extender",
   "version": "1.4.2",
   "displayName": "Toolbar Extender",
   "description": "Extend the Unity Toolbar with your own Editor UI code.",
@@ -13,9 +13,9 @@
     "button"
   ],
   "author": {
-    "name": "Marijn Zwemmer",
-    "email": "marijn@marijnzwemmer.com",
-    "url": "https://github.com/marijnz/unity-toolbar-extender"
+    "name": "Level 4",
+    "email": "info@level4.games",
+    "url": "https://github.com/harunuysali07/unity-toolbar-extender"
   },
   "samples": [
     {
